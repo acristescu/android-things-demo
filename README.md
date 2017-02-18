@@ -1,8 +1,9 @@
 # Android Things PoC
 This is a proof-of-concept app showcasing the capabilities of the [Android Things](https://developer.android.com/things/index.html)
-platform.
-
-[TOC]
+platform. The text here is a draft for a series of articles I wrote on my blog. Check out the final write-up here:
+* [Part 1](http://zenandroid.io/android-things-1/)
+* [Part 2](http://zenandroid.io/android-things-2-controlling-a-led/)
+* [Part 3](http://zenandroid.io/android-things-part-3-creating-a-remote-control-app/)
 
 ## What is the _Android Things_ platform?
 The Android Things platform is an operating system from Google intended to be used on IoT devices.
